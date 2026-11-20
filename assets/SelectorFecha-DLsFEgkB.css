@@ -1,0 +1,1 @@
+.selector-fecha-modal{--width:min(380px, calc(100vw - 24px));--height:auto;--max-height:calc(100vh - 32px);--border-radius:16px}.selector-fecha-modal ion-datetime{width:100%}.selector-fecha-trigger::part(native){border-radius:10px;min-height:36px;font-size:.9rem;font-weight:600}
